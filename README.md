@@ -1,4 +1,4 @@
-#Hi there, I'm Ferisha! 👋🏻
+# Hi there, I'm Ferisha! 👋🏻
 
 🎓 Computer Science (Computer Networks) student at Universiti Putra Malaysia (UPM).
 
